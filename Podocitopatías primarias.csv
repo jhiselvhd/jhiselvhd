@@ -1,0 +1,73 @@
+id,Nombre,Biblioteca de figuras,ID de página,Contenido por,Grupo,Origen de línea,Destino de la línea,Flecha de origen,Flecha de destino,Estado,Área de texto 1,Área de texto 2
+1,Documento,,,,,,,,,,Podocitopatías primarias,
+2,Página,,,,,,,,,,Página 1,
+3,Página,,,,,,,,,, Diagrama de flujo,
+4,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Podocitopatías primarias,
+5,Entrada manual,Figuras de diagramas de flujo,3,,,,,,,,Nefropatías donde están comprometidos los podocitos en su fisiopatología,
+6,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Comprenden,
+7,Contenedor de rectángulo,Figuras de diagramas de flujo,3,,63,,,,,,,
+8,Texto,Estándar,3,7,63,,,,,,Aprende más sobre esta plantilla,
+9,Texto,Estándar,3,7,63,,,,,,"Usa este diagrama de flujo básico para:
+Definir y visualizar claramente los pasos de tu proceso.
+Analizar y mejorar tu proceso.
+Acceder a la biblioteca de figuras de diagramas de flujo de Lucidchart.
+
+Para personalizar esta plantilla: 
+Haz clic en una figura y escribe la información que deseas incluir.
+Agrega y organiza figuras según sea necesario.
+
+Consejo pro: Activa mosaico automático (en la pestaña de configuración de página      a la derecha del lienzo) para permitir que el lienzo se ajuste automáticamente.",
+10,SVGPathBlock2,,3,7,63,,,,,,,
+11,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Nefropatía membranosa (NM),
+12,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Enfermedad de cambios mínimos (ECM),
+13,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Glomeruloesclerosis focal y segmentaria (GSFS),
+14,Pantalla,Figuras de diagramas de flujo,3,,,,,,,,Son causa frecuente de sx nefrótico en adultos ,
+15,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Etiología,
+16,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Histología,
+17,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Posible disfunción de los linfocitos T,
+18,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ensanchamiento y borrado de los pies de los podocitos.,
+19,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Clínica,
+20,Terminador,Figuras de diagramas de flujo,3,,,,,,,,"​-Manifestaciones de Sx nefrótico - Adultos: hematuria(   ̴30%), hipertensión(   ̴40%) y trombosis(5%). Lesión renal aguda (LRA) en (10-25%) -Niños: Hipertensión y LRA",
+21,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Tratamiento,
+22,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Prednisona: 1 mg/Kg/día (8-16 semanas),
+23,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Prednisona de nuevo. Descenso más lento,
+24,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ciclofosfamida: 2 mg/Kg/día (8-12 semanas),
+25,Terminador,Figuras de diagramas de flujo,3,,,,,,,,"Clorambucil: 0,2 mg/Kg/día (8 semanas) ±Prednisona en dosis bajas",
+26,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ciclosporina: 4-6 mg/Kg/día (1 año)  Corticoesteroides a dosis bajas y retirar,
+27,Terminador,Figuras de diagramas de flujo,3,,,,,,,,"Micofenolato:  1-1,5 g/día (1 año)  Corticoesteroides a dosis bajas y retirar",
+28,Preparación,Figuras de diagramas de flujo,3,,,,,,,,Rebiopsia,
+29,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ciclosporina: 4-6 mg/Kg/día (1 año)  Corticoesteroides a dosis bajas y retirar,
+30,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ciclofosfamida o Clorambucil ,
+31,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Ciclosporina o Micofenolato ,
+32,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Etiología,
+33,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Clínica,
+34,Terminador,Figuras de diagramas de flujo,3,,,,,,,,Presencia de autoanticuerpos formando depósitos de inmunocomplejos,
+35,Decisión,Figuras de diagramas de flujo,3,,,,,,,,Histología,
+36,Línea,,3,,,4,5,None,Arrow,,,
+37,Línea,,3,,,5,6,None,Arrow,,,
+38,Línea,,3,,,6,11,None,Arrow,,,
+39,Línea,,3,,,11,12,None,Arrow,,,
+40,Línea,,3,,,39,13,None,Arrow,,,
+41,Línea,,3,,,4,14,None,Arrow,,,
+42,Línea,,3,,,12,19,None,Arrow,,Glomerulonefritis típicamente pediátrica (70-90%),
+43,Línea,,3,,,42,15,None,Arrow,,,
+44,Línea,,3,,,15,17,None,Arrow,,,
+45,Línea,,3,,,15,16,None,Arrow,,,
+46,Línea,,3,,,16,18,None,Arrow,,En microscopio electrónico,
+47,Línea,,3,,,19,20,None,Arrow,,,
+48,Línea,,3,,,20,21,None,Arrow,,,
+49,Línea,,3,,,21,22,None,Arrow,,Primera elección,
+50,Línea,,3,,,21,23,None,Arrow,,Recidiva,Ocasional
+51,Línea,,3,,,50,24,None,Arrow,,Frecuente,
+52,Línea,,3,,,24,25,None,Arrow,,o,
+53,Línea,,3,,,25,26,None,Arrow,,,
+54,Línea,,3,,,26,27,None,Arrow,,,
+55,Línea,,3,,,21,28,None,Arrow,,Sin remisión (16 sem),
+56,Línea,,3,,,28,30,None,Arrow,,,
+57,Línea,,3,,,30,31,None,Arrow,,,
+58,Línea,,3,,,11,33,None,Arrow,,Glomerulonefritis típicamente pediátrica (70-90%),
+59,Línea,,3,,,58,32,None,Arrow,,,
+60,Línea,,3,,,33,,None,Arrow,,,
+61,Línea,,3,,,32,34,None,Arrow,,,
+62,Línea,,3,,,34,35,None,Arrow,,,
+63,Grupo 1,,3,,,,,,,,,
